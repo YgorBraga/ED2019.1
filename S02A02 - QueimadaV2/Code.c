@@ -71,9 +71,11 @@ int main(){
     int nl = 0;
     int nc = 0;
     scanf("%d %d", &nl, &nc);
+    setbuf(stdin, NULL);
 
     int taxa = 0;
     scanf("%d", &taxa);
+    setbuf(stdin, NULL);
 
     char forest[nl][nc];
     fill_mat(nl, nc, forest, taxa);
@@ -81,6 +83,9 @@ int main(){
     int l = 0;
     int c = 0;
     scanf("%d %d", &l, &c);
+    setbuf(stdin, NULL);
+
+    write_mat(nl, nc, forest);
 
     int damage = 0;
     damage = burn_mat(nl, nc, forest, l, c);
