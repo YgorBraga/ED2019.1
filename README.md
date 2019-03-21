@@ -72,3 +72,29 @@
     - Em eliminar os resquícios deixados pelo "scanf"e pelo "fgets" no buffer "stdin" de forma mais prática.
 - Quanto tempo levou pra fazer a atividade
     - Cerca de 30 minutos a 1 hora.
+
+## S03A02 - LabirintoV2
+
+- O que você fez
+    - Fiz toda a atividade.
+- Com quem e como você fez
+    - Fiz sozinho utilizando do esboço de labirinto anterior e com a ajuda do esboço em pseudo-código fornecido pelo professor.
+- O que aprendeu e sabe fazer
+    - Aperfeiçoamento do que foi aprendido na disciplina sobre recursão.
+- O que tem dificuldade ainda
+    - Em eliminar os resquícios deixados pelo "scanf"e pelo "fgets" no buffer "stdin" e em deixar o código mais enxuto possível.
+- Quanto tempo levou pra fazer a atividade
+    - Cerca de 30 minutos a 1 hora.
+
+## S03A02 - Fractais
+
+- O que você fez
+    
+- Com quem e como você fez
+    
+- O que aprendeu e sabe fazer
+    
+- O que tem dificuldade ainda
+    
+- Quanto tempo levou pra fazer a atividade
+    

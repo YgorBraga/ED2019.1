@@ -149,12 +149,10 @@ int main(){
     int out[] = {-1, -1};
 
     do{
-        printf("Escolha o local de inicio: ");
         scanf("%d %d", &start[0], &start[1]);
         setbuf(stdin, NULL);
     }while(maze[start[0]][start[1]] != HALL);
     do{
-        printf("Escolha o local da saida: ");
         scanf("%d %d", &out[0], &out[1]);
         setbuf(stdin, NULL);
     }while(maze[out[0]][out[1]] != HALL);
