@@ -26,7 +26,7 @@ void write_maze(int lines, int columns, char maze[lines][columns]){
         }
         puts("");
     }
-    getchar();
+    //getchar();
 }
 
 int search_hall(int lines, int columns, char maze[lines][columns], int line, int column){
@@ -65,7 +65,7 @@ void create_maze(int lines, int columns, char maze[lines][columns], int line, in
         return;
     }
     maze[line][column] = HALL;
-    write_maze(lines, columns, maze);
+    //write_maze(lines, columns, maze);
     int sides = (sizeof(deltaL)) / (sizeof(int));
     int neigh[] = {0, 1, 2, 3};
     shuffle(neigh, sides);
@@ -93,7 +93,7 @@ int search_out(int start[], int out[], int lines, int columns, char maze[lines][
 
     maze[start[0]][start[1]] = STEP;
     visited[start[0]][start[1]] = 1;
-    write_maze(lines, columns, maze);
+    //write_maze(lines, columns, maze);
 
     if(start[0] == out[0] && start[1] == out[1]){
         return 1;
@@ -110,7 +110,7 @@ int search_out(int start[], int out[], int lines, int columns, char maze[lines][
     }
 
     maze[start[0]][start[1]] = HALL;
-    write_maze(lines, columns, maze);
+    //write_maze(lines, columns, maze);
     return 0;
 
 
@@ -128,7 +128,7 @@ int main(){
     char maze[lines][columns];
     fill_maze(lines, columns, maze);
 
-    write_maze(lines, columns, maze);
+    //write_maze(lines, columns, maze);
     
     int line = 0;    
     int column = 0;
@@ -140,8 +140,9 @@ int main(){
     }while(column < 1 || column == columns - 1);
 
     create_maze(lines, columns, maze, line, column);
+    write_maze(lines, columns, maze);
 
-    //New Code for V2
+//New Code for V2
     int visited[lines][columns];
     fill_visited(lines, columns, visited);
 
@@ -158,8 +159,9 @@ int main(){
     }while(maze[out[0]][out[1]] != HALL);
 
     search_out(start, out, lines, columns, maze, visited);
+    write_maze(lines, columns, maze);
 
-    //END    
+//END    
 
     return 0;
 }
