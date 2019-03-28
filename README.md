@@ -89,12 +89,12 @@
 ## S03A02 - Fractais
 
 - O que você fez
-    
+    - Toda a atividade.
 - Com quem e como você fez
-    
+    - Fiz sozinho com o auxílio das aulas gravadas e dos exemplos fornecidos pelo professor.
 - O que aprendeu e sabe fazer
-    
+    - Aprendi a utilizar a biblioteca "xpaint.h" de forma básica.
 - O que tem dificuldade ainda
-    
+    - Descobrir o padrão de algumas figurar para utilizar na recursão.
 - Quanto tempo levou pra fazer a atividade
-    
+    - Levei em torno de 1 a 2 dias para concluir de sete fractais e iniciar o esboço do oitavo.
