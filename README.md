@@ -8,7 +8,7 @@
 **Professor:** David Sena
 
 # Relatórios das Atividades
-## 01 - Princesa
+## 001 - Princesa
 
 - O que você fez
     - Fiz toda a atividade.
@@ -21,7 +21,7 @@
 - Quanto tempo levou pra fazer a atividade
     - Cerca de 1 a 2 horas.
 
-## 02 - PrincesaV2
+## 002 - PrincesaV2
 
 - O que você fez
     - Fiz toda a atividade.
@@ -34,7 +34,7 @@
 - Quanto tempo levou pra fazer a atividade
     - Cerca de 3 a 4 horas.
 
-## 03 - Queimada
+## 003 - Queimada
 
 - O que você fez
     - Fiz toda a atividade
@@ -47,7 +47,7 @@
 - Quanto tempo levou pra fazer a atividade
     - Cerca de 1 hora.
 
-## 04 - QueimadaV2
+## 004 - QueimadaV2
 
 - O que você fez
     - Fiz toda a atividade
@@ -60,7 +60,7 @@
 - Quanto tempo levou pra fazer a atividade
     - Cerca de 1 a 2 horas.
 
-## 05 - Labirinto
+## 005 - Labirinto
 
 - O que você fez
     - Fiz toda a atividade
@@ -73,7 +73,7 @@
 - Quanto tempo levou pra fazer a atividade
     - Cerca de 30 minutos a 1 hora.
 
-## 06 - LabirintoV2
+## 006 - LabirintoV2
 
 - O que você fez
     - Fiz toda a atividade.
@@ -86,7 +86,7 @@
 - Quanto tempo levou pra fazer a atividade
     - Cerca de 30 minutos a 1 hora.
 
-## 07 - Fractais
+## 007 - Fractais
 
 - O que você fez
     - Toda a atividade.
@@ -99,7 +99,7 @@
 - Quanto tempo levou pra fazer a atividade
     - Levei em torno de 1 a 2 dias para concluir de sete fractais e iniciar o esboço do oitavo.
 
-## 08 - PrincesaV3
+## 008 - PrincesaV3
 
 - O que você fez
     - Toda a atividade.
@@ -112,7 +112,7 @@
 - Quanto tempo levou pra fazer a atividade
     - Levei em torno de 2 a 3 horas para concluir a atividade de forma aceitavel.
 
-## 09 - Algoritmos de Ordenação
+## 009 - Algoritmos de Ordenação
 
 - O que você fez
     
