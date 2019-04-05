@@ -8,7 +8,7 @@
 **Professor:** David Sena
 
 # Relatórios das Atividades
-## S01A01 - Princesa
+## 01 - Princesa
 
 - O que você fez
     - Fiz toda a atividade.
@@ -21,7 +21,7 @@
 - Quanto tempo levou pra fazer a atividade
     - Cerca de 1 a 2 horas.
 
-## S01A02 - PrincesaV2
+## 02 - PrincesaV2
 
 - O que você fez
     - Fiz toda a atividade.
@@ -34,7 +34,7 @@
 - Quanto tempo levou pra fazer a atividade
     - Cerca de 3 a 4 horas.
 
-## S02A01 - Queimada
+## 03 - Queimada
 
 - O que você fez
     - Fiz toda a atividade
@@ -47,7 +47,7 @@
 - Quanto tempo levou pra fazer a atividade
     - Cerca de 1 hora.
 
-## S02A02 - QueimadaV2
+## 04 - QueimadaV2
 
 - O que você fez
     - Fiz toda a atividade
@@ -60,7 +60,7 @@
 - Quanto tempo levou pra fazer a atividade
     - Cerca de 1 a 2 horas.
 
-## S03A01 - Labirinto
+## 05 - Labirinto
 
 - O que você fez
     - Fiz toda a atividade
@@ -73,7 +73,7 @@
 - Quanto tempo levou pra fazer a atividade
     - Cerca de 30 minutos a 1 hora.
 
-## S03A02 - LabirintoV2
+## 06 - LabirintoV2
 
 - O que você fez
     - Fiz toda a atividade.
@@ -86,7 +86,7 @@
 - Quanto tempo levou pra fazer a atividade
     - Cerca de 30 minutos a 1 hora.
 
-## S03A02 - Fractais
+## 07 - Fractais
 
 - O que você fez
     - Toda a atividade.
@@ -98,3 +98,29 @@
     - Descobrir o padrão de algumas figurar para utilizar na recursão.
 - Quanto tempo levou pra fazer a atividade
     - Levei em torno de 1 a 2 dias para concluir de sete fractais e iniciar o esboço do oitavo.
+
+## 08 - PrincesaV3
+
+- O que você fez
+    - Toda a atividade.
+- Com quem e como você fez
+    - Fiz sozinho com o auxílio dos exercicios anteriores e dos exemplos fornecidos pelo professor.
+- O que aprendeu e sabe fazer
+    - Aprendi o inicio de C++, algumas funções, como fazer e como funcionam.
+- O que tem dificuldade ainda
+    - Acabei de iniciar em C++, portanto, dificuldade com algumas diferenças de sintaxe em relação a C.
+- Quanto tempo levou pra fazer a atividade
+    - Levei em torno de 2 a 3 horas para concluir a atividade de forma aceitavel.
+
+## 09 - Algoritmos de Ordenação
+
+- O que você fez
+    
+- Com quem e como você fez
+    
+- O que aprendeu e sabe fazer
+    
+- O que tem dificuldade ainda
+    
+- Quanto tempo levou pra fazer a atividade
+    
