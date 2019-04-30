@@ -115,12 +115,13 @@
 ## 009 - Algoritmos de Ordenação
 
 - O que você fez
-    
+    - Toda a atividade.
 - Com quem e como você fez
-    
+    - Fiz sozinho com o auxilio de dicas fornecidas pelo professor.
 - O que aprendeu e sabe fazer
-    
+    - Aprendi sobre o basico no uso de algumas funções existentes na biblioteca "xvet.h", e sobre a criação de videos apartir de imagens utilizando o "FFmpeg".
 - O que tem dificuldade ainda
-    
+    - Descobrir com exatidão os locais para se adcionar as funções da "xvet.h" para desenhar o passo a passo dos algoritmos, como também, em alguns parametros utilizados pelo FFmpeg.
 - Quanto tempo levou pra fazer a atividade
+    - Levei em torno de 2 a 3 horas para montar os algoritmos e em torno de 1 a 2 horas para conseguir montar os videos apartir das imagens.
     
