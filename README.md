@@ -124,4 +124,43 @@
     - Descobrir com exatidão os locais para se adcionar as funções da "xvet.h" para desenhar o passo a passo dos algoritmos, como também, em alguns parametros utilizados pelo FFmpeg.
 - Quanto tempo levou pra fazer a atividade
     - Levei em torno de 2 a 3 horas para montar os algoritmos e em torno de 1 a 2 horas para conseguir montar os videos apartir das imagens.
+
+## 010 - Pathfinding
+
+- O que você fez
+    
+- Com quem e como você fez
+    
+- O que aprendeu e sabe fazer
+    
+- O que tem dificuldade ainda
+    
+- Quanto tempo levou pra fazer a atividade
+    
+
+## 011 - Simulação de Banco
+
+- O que você fez
+    - Toda a atividade.
+- Com quem e como você fez
+    - Fiz sozinho com o auxilio de alguns pseudo-códigos fornecidos pelo professor e esclareci algumas dúvidas junto de uma colega.
+- O que aprendeu e sabe fazer
+    - Aprendi um pouco mais sobre a manipulação das estruturas presentes no C++(vector, list, queue) utilizando "iterator", além de um aperfeiçoamento na utilização de ponteiros.
+- O que tem dificuldade ainda
+    - Certa dificulde de entender o funcionamento do iterator, ainda tenho algumas dúvidas em como utiliza-lo.
+- Quanto tempo levou pra fazer a atividade
+    - Levei em torno de 4 a 5 horas para montar a estrutura base do projeto, como as funções de "start_boxes", "show" e "insert". E em torno de 2 horas para montar a função de funcionamento do banco "tic_tac".
+
+## 012 - Editor de Texto
+
+- O que você fez
+    
+- Com quem e como você fez
+    
+- O que aprendeu e sabe fazer
+    
+- O que tem dificuldade ainda
+    
+- Quanto tempo levou pra fazer a atividade
+    
     
