@@ -128,15 +128,15 @@
 ## 010 - Pathfinding
 
 - O que você fez
-    
+    - Toda a atividade.
 - Com quem e como você fez
-    
+    - Fiz sozinho com o auxilio da aula gravada disponibilizada pelo professor. Utilizei o algoritmo base do floodfill para criar o do pathfinding.
 - O que aprendeu e sabe fazer
-    
+    - Um melhor manuseio das estruturas "vector" e "queue", além de um aprimoramento no uso das bibliotecas "xmat.h", "xpaint.h" e "xvet.h".
 - O que tem dificuldade ainda
-    
+    - Demoro um pouco para raciocinar quando se trata de utilizar as bibliotecas de desenho, além disso, em como tratar uma queue de forma correta.
 - Quanto tempo levou pra fazer a atividade
-    
+    - Em torno de 2 horas para criar o algoritmo do floodfill e, em torno de, 2 a 3 hora para montar o algoritmo do pathfinding.
 
 ## 011 - Simulação de Banco
 
@@ -154,6 +154,32 @@
 ## 012 - Editor de Texto
 
 - O que você fez
+    - Fiz parte da atividade, faltando as funcionalidades de "Undo" e "Redo", como também, a falta da parte gráfica.
+- Com quem e como você fez
+    - Fiz sozinho com o auxílio da aula gravada pelo professor, e montando o algoritmo quase que inteiramente encima da lógica de movimentação do iterador.
+- O que aprendeu e sabe fazer
+    - O aperfeiçoamento na utilização do iterator e das funções que utilizam o mesmo.
+- O que tem dificuldade ainda
+    - Alguns buracos nas condições utilizando iterator, além de, como saber em qual momento o utilizar.
+- Quanto tempo levou pra fazer a atividade
+    - Em torno de 4 a 5 horas para montar as funções básicas, excluindo "Undo", "Redo", "Up" e "Down", e um acréscimo de 2 horas para elaboras as funções "Up" e "Down".
+
+## 013 - Comparativo
+
+- O que você fez
+    - Toda a atividade.
+- Com quem e como você fez
+    - Fiz sozinho com o auxílio das dicas fornecidas pelo professor em aula, e utilizando o código base usando "set" para montar os outros dois algoritmos(vector e list).
+- O que aprendeu e sabe fazer
+    - A movimentação do iterador apartir da soma com um inteiro, e a existencia do "pair" e seu uso.
+- O que tem dificuldade ainda
+    - Ainda apresento certa dificuldade com as diversas formar de manipular o iterator das estruturas.
+- Quanto tempo levou pra fazer a atividad
+    - Levei em torno de 2 a 3 horas partindo do código fornecido pelo professor que utilizava "set".
+
+## 014 - Exercícios Hackerrank
+
+- O que você fez
     
 - Com quem e como você fez
     
@@ -161,6 +187,4 @@
     
 - O que tem dificuldade ainda
     
-- Quanto tempo levou pra fazer a atividade
-    
-    
+- Quanto tempo levou pra fazer a atividad
