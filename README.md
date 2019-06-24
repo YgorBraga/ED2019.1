@@ -174,17 +174,18 @@
     - A movimentação do iterador apartir da soma com um inteiro, e a existencia do "pair" e seu uso.
 - O que tem dificuldade ainda
     - Ainda apresento certa dificuldade com as diversas formar de manipular o iterator das estruturas.
-- Quanto tempo levou pra fazer a atividad
+- Quanto tempo levou pra fazer a atividade
     - Levei em torno de 2 a 3 horas partindo do código fornecido pelo professor que utilizava "set".
 
 ## 014 - Exercícios Hackerrank
 
 - O que você fez
-    
+    - Toda a atividade.
 - Com quem e como você fez
-    
+    - Fiz sozinho utilizando dos casos de testes fornecidos pelo site.
 - O que aprendeu e sabe fazer
-    
+    - Aprimorei os meus conhecimentos em recursão.
 - O que tem dificuldade ainda
-    
-- Quanto tempo levou pra fazer a atividad
+    - Trabalhar utilizando o retorno da recursão.
+- Quanto tempo levou pra fazer a atividade
+    - Em torno de 4 a 6 horas para concluir toda a atividade.
